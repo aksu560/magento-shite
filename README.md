@@ -1,1 +1,3 @@
 # magento-shite
+
+Random scripts
